@@ -2,14 +2,16 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(137, 137, 213);
+    background-image: url(Images/female\ web\ dev.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 200vh;
     font-family: "Outfit", sans-serif;
     font-weight: 700;
     font-style: normal;
 }
 body h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
 }
 .background{
     margin: 1rem 25rem 5rem;
@@ -34,5 +36,5 @@ button{
     width: 100%;
     height: 30px;
     margin: 3rem 0rem 0rem;
-    background-color: rgb(137, 137, 213);
+    background-color: rgb(187, 187, 254);
 }
